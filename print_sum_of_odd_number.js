@@ -1,3 +1,6 @@
+// Question-->Write a JavaScript program to find the sum of odd numbers from 1 to 50.
+
+
 let sp=1
 let num=50
 

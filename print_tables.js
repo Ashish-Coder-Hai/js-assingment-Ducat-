@@ -1,0 +1,1 @@
+// Question-->Write a JavaScript program to print the multiplication table of 5 up to 10.
